@@ -1,0 +1,11 @@
+
+Donwload link for weights 
+
+https://drive.google.com/drive/folders/1wgs97TN9Yq_X8X--KZu44kfV27BfNcd_?usp=sharing
+
+-- model_zoo
+    |-- mambairv2.pth
+    |-- restormer.pth
+    |-- xformer_ensemble.pth
+    |-- xformer.pth
+    
