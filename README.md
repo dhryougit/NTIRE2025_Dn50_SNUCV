@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 
 ### ./model_zoo structure
-- Download the weights from [GoogleDrive](https://drive.google.com/drive/folders/1wgs97TN9Yq_X8X--KZu44kfV27BfNcd_?usp=sharing) and put into `./model_zoo`.
+- Download the weights from [GoogleDrive](https://drive.google.com/file/d/1CouwiznOWxzX8MvXxe3asxHuGXXqDuq2/view?usp=sharing) and put into `./model_zoo`.
 ```
 -- model_zoo
     |-- mambairv2.pth
