@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ```
 
 ### results
-- Download the div2k and lsdir test results from [GoogleDrive](https://drive.google.com/drive/folders/1PdT41kW0I155OwvSfvn2Iux_8zkoYngP?usp=sharing) 
+- Download the div2k and lsdir test results from [GoogleDrive](https://drive.google.com/file/d/1PVEOu5dEbNEgb1Ktk3oZ_aM_XcexUPO4/view?usp=sharing) 
 
 
 ---
