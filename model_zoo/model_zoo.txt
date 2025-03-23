@@ -1,7 +1,7 @@
 
 Donwload link for weights 
 
-https://drive.google.com/drive/folders/1wgs97TN9Yq_X8X--KZu44kfV27BfNcd_?usp=sharing
+https://drive.google.com/file/d/1CouwiznOWxzX8MvXxe3asxHuGXXqDuq2/view?usp=sharing
 
 -- model_zoo
     |-- mambairv2.pth
