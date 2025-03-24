@@ -2766,7 +2766,7 @@ class SNUCV(nn.Module):
         self.patch_size_set = [256, 384, 512]
         self.overlab_set = [48, 64, 96]
 
-        self.ensemble = False
+        self.ensemble = True
 
         print("init!!")
 
